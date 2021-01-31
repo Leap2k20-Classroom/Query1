@@ -1,23 +1,23 @@
 var database = [
   {
-    ner: "bat-oyun",
+    ner: "zaluu",
     nas:  39,
-    score: 400
+    score: 250
   },
   {
     ner: "anand",
     nas: 32,
-    score: 140
+    score: 400
   },
   {
     ner: "barhas",
     nas: 37,
-    score: 200
+    score: 400
   },
   {
     ner: "enkhjin",
     nas: 36,
-    score: 400
+    score: 300
   } 
 ];
 
